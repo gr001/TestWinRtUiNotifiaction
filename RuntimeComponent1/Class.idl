@@ -1,0 +1,10 @@
+namespace RuntimeComponent1
+{
+    [default_interface]
+    [Windows.UI.Xaml.Data.Bindable]
+    runtimeclass Class : Windows.UI.Xaml.Data.INotifyPropertyChanged
+    {
+        Class();
+        Int32 MyProperty;
+    }
+}

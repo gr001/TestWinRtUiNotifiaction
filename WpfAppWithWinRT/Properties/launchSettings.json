@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WpfAppWithWinRT": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
